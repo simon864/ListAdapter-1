@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sergey.mydialer.app-mergeDebugResources-4:/layout/rview_item.xml",
+        "source": "com.sergey.mydialer.app-main-7:/layout/rview_item.xml"
+    },
+    {
+        "merged": "com.sergey.mydialer.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.sergey.mydialer.app-main-7:/layout/activity_main.xml"
+    }
+]
